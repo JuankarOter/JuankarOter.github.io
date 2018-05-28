@@ -1,2 +1,2 @@
-# JuankarOter.github.io
-Landing Page
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
